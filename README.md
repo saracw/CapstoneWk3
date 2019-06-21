@@ -1,2 +1,2 @@
 # CapstoneWk3
-For Datascience class #9
+For Data Science class #9
